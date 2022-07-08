@@ -1,11 +1,8 @@
 <h2> Welcome, I'm Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif"  width="50"></h2>
-<p><em>Engineering student in Applied Mathematics and Computer Science at <a href="https://www.polytech.sorbonne-universite.fr/">Polytech Sorbonne</a> in Paris
+<p><em>Engineering student in Applied Mathematics and Computer Science at <a href="https://www.polytech.sorbonne-universite.fr/">Polytech Sorbonne</a> in Paris <p>
 
  
-[Linkedin Badge](https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/elyas-assili/)](https://www.linkedin.com/in/elyas-assili/)
- 
- 
-  <p align=”center”>
+<p align=”center”>
 <a href=”https://www.linkedin.com/in/elyas-assili/”>
 <img src=”https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
