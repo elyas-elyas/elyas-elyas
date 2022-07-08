@@ -3,7 +3,7 @@
 
  
  <p align=”center”>
-<a href=”LinkedIn profile URL”>
+<a href=”www.linkedin.com/in/elyas-assili”>
 <img src=”https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue">
 </a>
 </p>
