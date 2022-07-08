@@ -5,7 +5,11 @@
 [Linkedin Badge](https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/elyas-assili/)](https://www.linkedin.com/in/elyas-assili/)
  
  
-  
+  <p align=”center”>
+<a href=”https://www.linkedin.com/in/elyas-assili/”>
+<img src=”https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue">
+</a>
+</p>
  
  
   
