@@ -3,7 +3,7 @@
 
 ### Contact
 [![Linkedin](https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/elyas-assili/)](https://www.linkedin.com/in/elyas-assili/)
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&labelColor=FFFFFF&link=mailto:elyasassili@gmail.com)](mailto:melyasassili@gmail.com) 
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&labelColor=FFFFFF&link=mailto:elyasassili@gmail.com)](mailto:elyasassili@gmail.com) 
  
   
   
