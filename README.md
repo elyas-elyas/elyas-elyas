@@ -1,5 +1,5 @@
 ### Hello 😄 ! I'm Elyas Assili.
-<p><em>Engineering student in Applied Mathematics and Computer Science at <a href="https://www.polytech.sorbonne-universite.fr/">Polytech Sorbonne in Paris
+<p><em>Engineering student in Applied Mathematics and Computer Science at <a href="https://www.polytech.sorbonne-universite.fr/">Polytech Sorbonne</a> in Paris
 <!--
 **elyas-elyas/elyas-elyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
