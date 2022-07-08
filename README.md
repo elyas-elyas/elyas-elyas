@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+  ###Contact
+  [![Linkedin: elyas-assili](https://img.shields.io/badge/-elyas-assili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elyas-assili)](www.linkedin.com/in/elyas-assili)
