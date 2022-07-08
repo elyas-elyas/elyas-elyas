@@ -1,3 +1,5 @@
+<h2> Welcome, I'm Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif"  width="50"></h2>
+<p><em>Engineering student in Applied Mathematics and Computer Science at <a href="https://www.polytech.sorbonne-universite.fr/">Polytech Sorbonne</a> in Paris 
 
  
 <p align=”center”>
@@ -6,7 +8,7 @@
 </a>
 </p>
  
- 
+ [![Open Source Love](https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue)]
   
   
   
