@@ -2,7 +2,7 @@
 <p><em>Engineering student in Applied Mathematics and Computer Science at <a href="https://www.polytech.sorbonne-universite.fr/">Polytech Sorbonne</a> in Paris
 
  ### Contact
-  [![Linkedin: elyas-assili](https://img.shields.io/badge/-elyas-assili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/elyas-assili)](www.linkedin.com/in/elyas-assili)
+  [![Linkedin: elyas-assili](https://img.shields.io/badge/-elyas-assili-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elyas-assili)](www.linkedin.com/in/elyas-assili)
 
   
  
