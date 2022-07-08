@@ -8,7 +8,7 @@
 </a>
 </p>
  
- ![Linkedin](https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue)(https://www.linkedin.com/in/elyas-assili/)
+ ![Linkedin](https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/elyas-assili/)
   
   
   
