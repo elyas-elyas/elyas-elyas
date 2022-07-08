@@ -1,4 +1,4 @@
-### Welcome, I'm Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="30">
+<h2> Welcome, I'm Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif"  width="50"></h2>
 <p><em>Engineering student in Applied Mathematics and Computer Science at <a href="https://www.polytech.sorbonne-universite.fr/">Polytech Sorbonne</a> in Paris
 <!--
 **elyas-elyas/elyas-elyas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
