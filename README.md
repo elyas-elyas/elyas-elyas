@@ -11,7 +11,7 @@
 ![R](https://img.shields.io/badge/-r-lightgrey?logo=R&logoColor=blue&style=flat)
 ![Latex](https://img.shields.io/badge/-Latex-green?logo=Latex&LabelColor=white&style=flat)
   
-### Projects <img src="https://media.giphy.com/media/acrdg6I7nte1G0bdWV/giphy.gif" width="30">
+### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
 [![N-corps](https://github-readme-stats.vercel.app/api/pin/?username=Rudiio&repo=Projet-N-corps&theme=algolia&show_icons=tru)](https://github.com/Rudiio/Projet-N-corps)
 [![MDG](https://github-readme-stats.vercel.app/api/pin/?username=Rivoks&repo=polytech-projet-mdg&theme=algolia&show_icons=tru)](https://github.com/Rivoks/polytech-projet-mdg) 
 [![Spotify](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Spotify_Dataset_1921_2020_analyse&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Spotify_Dataset_1921_2020_analyse) 
