@@ -23,7 +23,6 @@
 
 ### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
 [![N-corps](https://github-readme-stats.vercel.app/api/pin/?username=Rudiio&repo=Projet-N-corps&theme=algolia&show_icons=tru)](https://github.com/Rudiio/Projet-N-corps)
-[![Receipt-Total](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Receipt-Total-Extraction-using-a-Deep-Learning-approach&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Receipt-Total-Extraction-using-a-Deep-Learning-approach) 
 [![Gestion-tarifs](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Gestion-de-Tarifs-des-vols&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Gestion-de-Tarifs-des-vols)
 [![Spotify](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Spotify_Dataset_1921_2020_analyse&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Spotify_Dataset_1921_2020_analyse)
 
