@@ -1,8 +1,8 @@
 <h2 align="center"> Welcome, I am Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif"  width="50"></h2>
 <p align="center"><em>Engineer in Applied Mathematics and Computer Science, graduate of <a href="https://www.polytech.sorbonne-universite.fr/">Polytech Sorbonne</a>.
 
-### Contact <img src="https://media.giphy.com/media/5jztgr9dzL5taqdGKc/giphy.gif"  width="50">
-[![Linkedin](https://img.shields.io/badge/-elyas--assili-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/elyas-assili/)](https://www.linkedin.com/in/elyas-assili/)
+### Contact <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHhoMXAzZHg0anJudjl0a3hueGx2OXlhcm16cXN6OXM2NzB6ZDRuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/65qzUZckzeWG1wugLW/giphy.gif" width="50">
+[![Linkedin](https://custom-icon-badges.demolab.com/badge/Elyas%20Assili-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/elyas-assili/)](https://www.linkedin.com/in/elyas-assili/)
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&labelColor=FFFFFF&link=mailto:elyasassili@gmail.com)](mailto:elyasassili@gmail.com) 
  
 ### Technical Skills <img src="https://media.giphy.com/media/fVWYFb7i0TCQukqgSe/giphy.gif" width="50">
