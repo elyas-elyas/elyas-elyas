@@ -6,6 +6,8 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&labelColor=FFFFFF&link=mailto:elyasassili@gmail.com)](mailto:elyasassili@gmail.com) 
  
 ### Technical Skills <img src="https://media.giphy.com/media/fVWYFb7i0TCQukqgSe/giphy.gif" width="50">
+
+#### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&labelColor=FFFFFF)
 ![C](https://img.shields.io/badge/-c-blue?logo=C&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
