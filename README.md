@@ -1,5 +1,5 @@
 <h2 align="center"> Welcome, I am Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif"  width="50"></h2>
-<p align="center"><em>Engineer in Applied Mathematics and Computer Science, graduate of <a href="https://www.polytech.sorbonne-universite.fr/">Polytech Sorbonne</a>.
+<p align="center"><em>Engineer in Applied Mathematics and Computer Science, graduate of <a href="https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique">Polytech Sorbonne</a>.
 
 ### Contact <img src="https://media.giphy.com/media/2MutyNbf6MjVa0VZcQ/giphy.gif?cid=ecf05e47wf2m1nrjhy39cv6ij8wdh55egt6sd0citq0o3xyl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/Elyas%20Assili-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/elyas-assili/)](https://www.linkedin.com/in/elyas-assili/)
