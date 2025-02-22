@@ -13,6 +13,12 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)
 ![Matlab](https://img.shields.io/badge/MATLAB-blue?style=flat&amp%3Blogo=MATLAB)
 
+#### Data & AI 
+![Data Science](https://img.shields.io/badge/-Data%20Science-0033CC?style=flat&logo=pandas&logoColor=white)
+![Data Analytics](https://img.shields.io/badge/-Data%20Analytics-1D3557?style=flat&logo=tableau)
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=scikit-learn)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+
 ### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
 [![N-corps](https://github-readme-stats.vercel.app/api/pin/?username=Rudiio&repo=Projet-N-corps&theme=algolia&show_icons=tru)](https://github.com/Rudiio/Projet-N-corps)
 [![Receipt-Total](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Receipt-Total-Extraction-using-a-Deep-Learning-approach&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Receipt-Total-Extraction-using-a-Deep-Learning-approach) 
