@@ -18,11 +18,11 @@
 ![Excel VBA](https://img.shields.io/badge/-Excel%20VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 #### Finance & Insurance
-![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-2E8B57?style=flat&logo=python&logoColor=white)
-![Trading Strategies](https://img.shields.io/badge/-Trading%20Strategies-191970?style=flat&logo=chartdotjs&logoColor=white)
+![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-2E8B57?style=flat)
+![Trading Strategies](https://img.shields.io/badge/-Trading%20Strategies-191970?style=flat)
 ![Asset Liability Management (ALM)](https://img.shields.io/badge/-Asset%20Liability%20Management%20(ALM)-8B0000?style=flat)
 ![Risk Management](https://img.shields.io/badge/-Risk%20Management-4169E1?style=flat)
-![Derivatives Pricing](https://img.shields.io/badge/-Derivatives%20Pricing-4682B4?style=flat&logo=python&logoColor=white)
+![Derivatives Pricing](https://img.shields.io/badge/-Derivatives%20Pricing-4682B4?style=flat)
 ![Actuarial Science](https://img.shields.io/badge/-Actuarial%20Science-6A5ACD?style=flat)
 ![Monte Carlo Simulation](https://img.shields.io/badge/-Monte%20Carlo%20Simulation-191970?style=flat)
 ![Bloomberg](https://img.shields.io/badge/-Bloomberg-000000?style=flat&logo=bloomberg)
