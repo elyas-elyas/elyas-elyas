@@ -15,17 +15,18 @@
 ![R](https://img.shields.io/badge/-r-lightgrey?logo=R&logoColor=blue&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)
 ![Matlab](https://img.shields.io/badge/MATLAB-blue?style=flat&amp%3Blogo=MATLAB)
+![Excel VBA](https://img.shields.io/badge/-Excel%20VBA-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
 #### Finance & Insurance
-![Financial Modeling](https://img.shields.io/badge/-Financial%20Modeling-1E90FF?style=flat&logo=googlesheets&logoColor=white)
-![Risk Management](https://img.shields.io/badge/-Risk%20Management-4169E1?style=flat&logoColor=white)
-![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-2E8B57?style=flat&logoColor=white)
-![Portfolio Optimization](https://img.shields.io/badge/-Portfolio%20Optimization-20B2AA?style=flat&logo=python&logoColor=white)
+![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-2E8B57?style=flat&logo=python&logoColor=white)
+![Trading Strategies](https://img.shields.io/badge/-Trading%20Strategies-191970?style=flat&logo=chartdotjs&logoColor=white)
+![Asset Liability Management (ALM)](https://img.shields.io/badge/-Asset%20Liability%20Management%20(ALM)-8B0000?style=flat)
+![Risk Management](https://img.shields.io/badge/-Risk%20Management-4169E1?style=flat)
 ![Derivatives Pricing](https://img.shields.io/badge/-Derivatives%20Pricing-4682B4?style=flat&logo=python&logoColor=white)
-![Stochastic Calculus](https://img.shields.io/badge/-Stochastic%20Calculus-708090?style=flat)
 ![Actuarial Science](https://img.shields.io/badge/-Actuarial%20Science-6A5ACD?style=flat)
-![Time Series Analysis](https://img.shields.io/badge/-Time%20Series%20Analysis-483D8B?style=flat&logo=R&logoColor=white)
 ![Monte Carlo Simulation](https://img.shields.io/badge/-Monte%20Carlo%20Simulation-191970?style=flat)
+![Bloomberg](https://img.shields.io/badge/-Bloomberg-000000?style=flat&logo=bloomberg)
+![Python Finance Libraries](https://img.shields.io/badge/-QuantLib,%20NumPy,%20Pandas-3776AB?style=flat&logo=python&logoColor=white)
  
 
 #### Data & AI 
