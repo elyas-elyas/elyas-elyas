@@ -1,5 +1,6 @@
 <h2 align="center"> Welcome, I am Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif"  width="50"></h2>
-<p align="center"><em>Engineer in Applied Mathematics and Computer Science, graduate of <a href="https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique">Polytech Sorbonne</a>. Student in Financial Mathematics Engineering (M2) at <a href="http://www.m2irfa.fr/home.html">Panthéon Sorbonne</a>.
+<p align="center"><em>Engineer in Applied Mathematics and Computer Science, graduate of <a href="https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique">Polytech Sorbonne</a>.  width="50"></h2>
+<p align="center"><em> Student in Financial Mathematics Engineering (M2) at <a href="http://www.m2irfa.fr/home.html">Panthéon Sorbonne</a>.
 
 ### Contact <img src="https://media.giphy.com/media/2MutyNbf6MjVa0VZcQ/giphy.gif?cid=ecf05e47wf2m1nrjhy39cv6ij8wdh55egt6sd0citq0o3xyl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/Elyas%20Assili-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/elyas-assili/)](https://www.linkedin.com/in/elyas-assili/)
@@ -14,6 +15,18 @@
 ![R](https://img.shields.io/badge/-r-lightgrey?logo=R&logoColor=blue&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)
 ![Matlab](https://img.shields.io/badge/MATLAB-blue?style=flat&amp%3Blogo=MATLAB)
+
+#### Finance & Insurance
+![Financial Modeling](https://img.shields.io/badge/-Financial%20Modeling-1E90FF?style=flat&logo=googlesheets&logoColor=white)
+![Risk Management](https://img.shields.io/badge/-Risk%20Management-4169E1?style=flat&logoColor=white)
+![Quantitative Finance](https://img.shields.io/badge/-Quantitative%20Finance-2E8B57?style=flat&logoColor=white)
+![Portfolio Optimization](https://img.shields.io/badge/-Portfolio%20Optimization-20B2AA?style=flat&logo=python&logoColor=white)
+![Derivatives Pricing](https://img.shields.io/badge/-Derivatives%20Pricing-4682B4?style=flat&logo=python&logoColor=white)
+![Stochastic Calculus](https://img.shields.io/badge/-Stochastic%20Calculus-708090?style=flat)
+![Actuarial Science](https://img.shields.io/badge/-Actuarial%20Science-6A5ACD?style=flat)
+![Time Series Analysis](https://img.shields.io/badge/-Time%20Series%20Analysis-483D8B?style=flat&logo=R&logoColor=white)
+![Monte Carlo Simulation](https://img.shields.io/badge/-Monte%20Carlo%20Simulation-191970?style=flat)
+ 
 
 #### Data & AI 
 ![Data Science](https://img.shields.io/badge/-Data%20Science-0033CC?style=flat&logo=pandas&logoColor=white)
