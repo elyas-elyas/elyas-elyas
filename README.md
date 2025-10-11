@@ -1,5 +1,5 @@
 <h2 align="center"> Welcome, I am Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif"  width="50"></h2>
-<p align="center"><em>Engineer in Applied Mathematics and Computer Science, graduate of <a href="https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique">Polytech Sorbonne</a>.  width="50"></h2>
+<p align="center"><em>Engineer in Applied Mathematics and Computer Science, graduate of <a href="https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique">Polytech Sorbonne</a>.
 <p align="center"><em> Student in Financial Mathematics Engineering (M2) at <a href="http://www.m2irfa.fr/home.html">Panthéon Sorbonne</a>.
 
 ### Contact <img src="https://media.giphy.com/media/2MutyNbf6MjVa0VZcQ/giphy.gif?cid=ecf05e47wf2m1nrjhy39cv6ij8wdh55egt6sd0citq0o3xyl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
@@ -26,7 +26,7 @@
 ![Actuarial Science](https://img.shields.io/badge/-Actuarial%20Science-6A5ACD?style=flat)
 ![Monte Carlo Simulation](https://img.shields.io/badge/-Monte%20Carlo%20Simulation-191970?style=flat)
 ![Bloomberg](https://img.shields.io/badge/-Bloomberg-000000?style=flat&logo=bloomberg)
-![Python Finance Libraries](https://img.shields.io/badge/-QuantLib,%20NumPy,%20Pandas-3776AB?style=flat&logo=python&logoColor=white)
+![Python Finance Libraries](https://img.shields.io/badge/-Python%20Finance%20Libraries-3776AB?style=flat&logo=python&logoColor=white)
  
 
 #### Data & AI 
