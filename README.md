@@ -12,7 +12,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&labelColor=FFFFFF)
 ![C](https://img.shields.io/badge/-c-blue?logo=C&logoColor=white&style=flat)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=cplusplus)
-![C#](https://img.shields.io/badge/-C#-blue?logo=csharp)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white)
 ![R](https://img.shields.io/badge/-r-lightgrey?logo=R&logoColor=blue&style=flat)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white&style=flat)
 ![Matlab](https://img.shields.io/badge/MATLAB-blue?style=flat&amp%3Blogo=MATLAB)
