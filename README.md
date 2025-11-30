@@ -37,8 +37,18 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
-- [Pair Trading Strategy](https://github.com/elyas-elyas/Pair-trading-strategy) ![Python](https://img.shields.io/badge/-Python-3776AB)
-- [Portfolio Optimizer Dashboard](https://github.com/elyas-elyas/Portfolio-Optimizer-Dashboard) ![Python](https://img.shields.io/badge/-Python-3776AB)
-- [Projet N-corps](https://github.com/Rudiio/Projet-N-corps) ![C++](https://img.shields.io/badge/-C++-blue)
-- [Gestion des Tarifs des vols](https://github.com/elyas-elyas/Gestion-de-Tarifs-des-vols) ![Python](https://img.shields.io/badge/-Python-3776AB)
+<div align="center">
+  <a href="https://github.com/elyas-elyas/Pair-trading-strategy" target="_blank">
+    <img src="https://raw.githubusercontent.com/elyas-elyas/Pair-trading-strategy/main/screenshots/demo.png" width="200" alt="Pair Trading">
+    <p>Pair Trading Strategy</p>
+  </a>
+  <a href="https://github.com/elyas-elyas/Portfolio-Optimizer-Dashboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/elyas-elyas/Portfolio-Optimizer-Dashboard/main/screenshots/demo.png" width="200" alt="Portfolio Dashboard">
+    <p>Portfolio Optimizer Dashboard</p>
+  </a>
+  <a href="https://github.com/Rudiio/Projet-N-corps" target="_blank">
+    <img src="https://raw.githubusercontent.com/Rudiio/Projet-N-corps/main/screenshots/demo.png" width="200" alt="N-Corps">
+    <p>N-corps Simulation</p>
+  </a>
+</div>
 
