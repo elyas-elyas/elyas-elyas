@@ -37,8 +37,8 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
+[![Portfolio-Optimizer](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Portfolio-Optimizer-Dashboard&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Portfolio-Optimizer-Dashboard)
 [![Pair Trading](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Pair-trading-strategy&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Pair-trading-strategy)
-[![Portfolio-Optimizer-Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Portfolio-Optimizer-Dashboard&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Portfolio-Optimizer-Dashboard)
 [![N-corps](https://github-readme-stats.vercel.app/api/pin/?username=Rudiio&repo=Projet-N-corps&theme=algolia&show_icons=tru)](https://github.com/Rudiio/Projet-N-corps)
 [![Gestion-tarifs](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Gestion-de-Tarifs-des-vols&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Gestion-de-Tarifs-des-vols)
 
