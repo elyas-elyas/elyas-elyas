@@ -40,5 +40,5 @@
 - [Pair Trading Strategy](https://github.com/elyas-elyas/Pair-trading-strategy) ![Python](https://img.shields.io/badge/-Python-3776AB)
 - [Portfolio Optimizer Dashboard](https://github.com/elyas-elyas/Portfolio-Optimizer-Dashboard) ![Python](https://img.shields.io/badge/-Python-3776AB)
 - [Projet N-corps](https://github.com/Rudiio/Projet-N-corps) ![C++](https://img.shields.io/badge/-C++-blue)
-- [Gestion des Tarifs des vols](https://github.com/elyas-elyas/Gestion-de-Tarifs-des-vols) ![Python](https://img.shields.io/badge/-Python-3776AB)
+- [Gestion des Tarifs des vols](https://github.com/elyas-elyas/Gestion-de-Tarifs-des-vols) ![C++](https://img.shields.io/badge/-C++-blue)
 
