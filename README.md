@@ -36,12 +36,17 @@
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?style=flat&logo=scikit-learn)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
-### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
+
 
 ### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
+
 [![Quant AI Bot](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Quant_AI_Bot&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Quant_AI_Bot)
-[![Quantitative-Option-Pricing-and-Risk-Engine](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Quantitative-Option-Pricing-and-Risk-Engine&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine)
 [![Pair Trading](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Pair-trading-strategy&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Pair-trading-strategy)
+
+<div align="center">
+  <br>
+  [![Quantitative-Option-Pricing-and-Risk-Engine](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Quantitative-Option-Pricing-and-Risk-Engine&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine)
+</div>
 
 
 
