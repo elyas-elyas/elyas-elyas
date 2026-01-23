@@ -42,7 +42,6 @@
 [![Quant AI Bot](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Quant_AI_Bot&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Quant_AI_Bot)
 [![Quantitative-Option-Pricing-and-Risk-Engine](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Quantitative-Option-Pricing-and-Risk-Engine&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine)
 [![Pair Trading](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Pair-trading-strategy&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Pair-trading-strategy)
-[![Portfolio Optimizer Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Portfolio Optimizer Dashboard&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Pair-trading-strategy)
 
 
 
