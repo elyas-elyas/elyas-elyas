@@ -37,8 +37,12 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
-- [Pair Trading Strategy](https://github.com/elyas-elyas/Pair-trading-strategy) ![Python](https://img.shields.io/badge/-Python-3776AB)
-- [Portfolio Optimizer Dashboard](https://github.com/elyas-elyas/Portfolio-Optimizer-Dashboard) ![Python](https://img.shields.io/badge/-Python-3776AB)
-- [Projet N-corps](https://github.com/Rudiio/Projet-N-corps) ![C++](https://img.shields.io/badge/-C++-blue)
-- [Gestion des Tarifs des vols](https://github.com/elyas-elyas/Gestion-de-Tarifs-des-vols) ![C++](https://img.shields.io/badge/-C++-blue)
+
+### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
+[![Quant AI Bot](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Quant_AI_Bot&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Quant_AI_Bot)
+[![Quantitative-Option-Pricing-and-Risk-Engine](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Quantitative-Option-Pricing-and-Risk-Engine&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine)
+[![Pair Trading](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Pair-trading-strategy&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Pair-trading-strategy)
+[![Portfolio Optimizer Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Portfolio Optimizer Dashboard&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Pair-trading-strategy)
+[![High-Performance Matching Engine & Real-Time Dashboards](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=High-Performance Matching Engine & Real-Time Dashboards&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Matching-Engine)
+
 
