@@ -1,6 +1,6 @@
-<h2 align="center"> Welcome, I am Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif"  width="50"></h2>
+<h2 align="center"> Welcome, I am Elyas Assili ! <img src="https://media.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif" width="50"></h2>
 <p align="center"><em>Engineer in Applied Mathematics and Computer Science, graduate of <a href="https://www.polytech.sorbonne-universite.fr/formations/mathematiques-appliques-et-informatique">Polytech Sorbonne</a>.
-<p align="center"><em> Student in Financial Mathematics Engineering (M2) at <a href="http://www.m2irfa.fr/home.html">Panthéon Sorbonne</a>.
+<p align="center"><em>Holder of a second degree, Master's (M2) in Financial Mathematics from <a href="http://www.m2irfa.fr/home.html">Panthéon Sorbonne</a>.
 
 ### Contact <img src="https://media.giphy.com/media/2MutyNbf6MjVa0VZcQ/giphy.gif?cid=ecf05e47wf2m1nrjhy39cv6ij8wdh55egt6sd0citq0o3xyl&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50">
 [![Linkedin](https://custom-icon-badges.demolab.com/badge/Elyas%20Assili-0A66C2?logo=linkedin-white&logoColor=fff&link=https://www.linkedin.com/in/elyas-assili/)](https://www.linkedin.com/in/elyas-assili/)
@@ -39,10 +39,7 @@
 
 
 ### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
-
-[![Quant AI Bot](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Quant_AI_Bot&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Quant_AI_Bot)
-[![Pair Trading](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Pair-trading-strategy&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Pair-trading-strategy)
-[![Quantitative-Option-Pricing-and-Risk-Engine](https://github-readme-stats.vercel.app/api/pin/?username=elyas-elyas&repo=Quantitative-Option-Pricing-and-Risk-Engine&theme=algolia&show_icons=tru)](https://github.com/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine)
-
-
-
+[![Financial Options Pricing & Risk Calculator](https://gh-card.dev/repos/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine.svg)](https://github.com/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine)
+[![Trading Platform](https://gh-card.dev/repos/elyas-elyas/Matching-Engine.svg)](https://github.com/elyas-elyas/Matching-Engine)
+[![Quant AI Bot](https://gh-card.dev/repos/elyas-elyas/Quant_AI_Bot.svg)](https://github.com/elyas-elyas/Quant_AI_Bot)
+[![Correlated Assets](https://gh-card.dev/repos/elyas-elyas/Pair-trading-strategy.svg)](https://github.com/elyas-elyas/Pair-trading-strategy)
