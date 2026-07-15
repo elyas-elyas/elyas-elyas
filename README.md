@@ -37,9 +37,30 @@
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 
-
 ### Projects <img src="https://media.giphy.com/media/KHF2LH5zMtGxHMC3wB/giphy.gif" width="35">
-[![Financial Options Pricing & Risk Calculator](https://gh-card.dev/repos/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine.svg)](https://github.com/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine)
-[![Trading Platform](https://gh-card.dev/repos/elyas-elyas/Matching-Engine.svg)](https://github.com/elyas-elyas/Matching-Engine)
-[![Quant AI Bot](https://gh-card.dev/repos/elyas-elyas/Quant_AI_Bot.svg)](https://github.com/elyas-elyas/Quant_AI_Bot)
-[![Correlated Assets](https://gh-card.dev/repos/elyas-elyas/Pair-trading-strategy.svg)](https://github.com/elyas-elyas/Pair-trading-strategy)
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine">
+        <img src="https://gh-card.dev/repos/elyas-elyas/Quantitative-Option-Pricing-and-Risk-Engine.svg" alt="Quantitative Option Pricing and Risk Engine">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/elyas-elyas/Matching-Engine">
+        <img src="https://gh-card.dev/repos/elyas-elyas/Matching-Engine.svg" alt="Matching Engine">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <a href="https://github.com/elyas-elyas/Quant_AI_Bot">
+        <img src="https://gh-card.dev/repos/elyas-elyas/Quant_AI_Bot.svg" alt="Quant AI Bot">
+      </a>
+    </td>
+    <td valign="top" width="50%">
+      <a href="https://github.com/elyas-elyas/Pair-trading-strategy">
+        <img src="https://gh-card.dev/repos/elyas-elyas/Pair-trading-strategy.svg" alt="Pair Trading Strategy">
+      </a>
+    </td>
+  </tr>
+</table>
